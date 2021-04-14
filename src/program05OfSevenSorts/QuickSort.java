@@ -1,4 +1,4 @@
-package program05;
+package program05OfSevenSorts;
 /**
  * @ClassName : ${NAME}  //类名
  * @author: Shenxinyuan

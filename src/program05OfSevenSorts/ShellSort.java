@@ -1,4 +1,4 @@
-package program05;
+package program05OfSevenSorts;
 
 import java.util.Arrays;
 

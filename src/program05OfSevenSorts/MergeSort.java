@@ -1,4 +1,4 @@
-package program05;
+package program05OfSevenSorts;
 
 import org.junit.Test;
 
